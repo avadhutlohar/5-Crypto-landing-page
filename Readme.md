@@ -8,7 +8,7 @@ It is part of the Full Stack Javascript Bootcamp being taught at ineuron.ai by H
 
 -   During this project, I gained the following skills:
     -    Created a dropdown icon using the ::after & ::before pseudo elements
-    -Learned how to use flex grow, shrink, and basis
+    -    Learned how to use flex grow, shrink, and basis
 
 ---
 
